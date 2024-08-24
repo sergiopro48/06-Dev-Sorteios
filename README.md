@@ -1,7 +1,7 @@
 <h1>🎲DEV-SORTEIO.</h1>
 
 # 🎤Sobre o projeto:
-O Sorteador de Números é uma ferramenta bem prática e útil, especialmente para momentos em que decisões imparciais são necessárias como em sorteios ou jogos!
+O Sorteador de números é uma ferramenta bem prática e útil, especialmente para momentos em que decisões imparciais são necessárias como em sorteios ou jogos!
 # 🔍Funcionalidades:
 1. Dentro do primeiro input "ENTRE" você digita qualquer número.
 2. Dentro do segundo imput "E" você digitará outro número.
