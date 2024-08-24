@@ -15,3 +15,6 @@ O Sorteador de Números é uma ferramenta bem prática e útil, especialmente pa
  # 😎 Agradecimentos!
    Meu sincero agradecimento ao mestre <a href="https://www.github.com/rodolfomori">Rodolfo Mori</a> no @DevClub por nos proporcionarem desafios que estimulam tanto o aprendizado quanto a criatividade. Foi gratificante criar um menu de hamburgueria a partir das lições aprendidas nas aulas e dar vida a ele com minhas próprias ideias de estilização.
      Obrigado por nos inspirarem a sempre inovar!
+       <h1>Desktop / Celular<h1>
+<img src="https://github.com/sergiopro48/06-Dev-Sorteios/blob/main/assest/DevSorteios%20Desktop.png?raw=true"/>
+<img src="https://github.com/sergiopro48/06-Dev-Sorteios/blob/main/assest/@sergiopros48.png?raw=true"/>
